@@ -3,6 +3,10 @@ import asyncio
 import json
 
 BOT_TOKEN='bot.token'
+# {
+#    "token" : "token12345678",
+#    "chat_id" : 12345678
+# }
 
 def main():
 
